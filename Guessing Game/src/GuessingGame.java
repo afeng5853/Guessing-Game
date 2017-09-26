@@ -1,3 +1,8 @@
+/*
+ * Name: Alex Feng
+ * Date: 9/26/2017
+ * Description: Guessing game from 1 to 10
+ */
 import java.util.Scanner;
 
 public class GuessingGame {
