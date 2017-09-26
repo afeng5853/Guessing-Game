@@ -28,6 +28,6 @@ public class GuessingGame {
 			}
 		}
 		input.close();
-		//Hi.
+		//Hi
 	}
 }
