@@ -8,6 +8,8 @@ import java.util.Scanner;
 
 public class GuessingGame {
 	public static void main(String[] args) {
+		System.out.println("hi");
+		
 		//Random number from 1 to 10 to be guessed
 		int randNum = (int) (Math.random() * 10 + 1);
 		
