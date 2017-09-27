@@ -10,12 +10,12 @@ public class GuessingGame {
 	public static void main(String[] args) {
 		System.out.println("hi.");
 		
-		//Random number from 1 to 10 to be guessed
+		//Random number from 1 to 10 to be guessed 2
 		int randNum = (int) (Math.random() * 10 + 1);
 		
 		Scanner input = new Scanner(System.in);
 		while (true) {
-		//Will break when the number is guessed correctly
+		//Will break when the number is guessed correctly 3
 			System.out.print("Guess a number from 1-10: ");
 			try {
 				int guess = Integer.parseInt(input.nextLine());
