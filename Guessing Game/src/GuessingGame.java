@@ -30,7 +30,7 @@ public class GuessingGame {
 			}
 		}
 		input.close();
-		//Hi.
-		//Hi there.
+		//Hi. 
+		//Hi there. My name is Raymond
 	}
 }
